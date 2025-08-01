@@ -1,0 +1,7 @@
+1.start
+2.declare variables for celsius and fahrenheit
+3.accept temperature in celsius from the user.\
+4.use the formula:
+         fahrenheit=(celsius*9/5)+32
+5.display the temperature in fahrenheit 
+6.end.
